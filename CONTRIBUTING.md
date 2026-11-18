@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip">
+  <a href="../../releases">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
   </a>
 
